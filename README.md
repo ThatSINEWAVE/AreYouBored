@@ -4,6 +4,8 @@
 
 Welcome to AreYouBored?, a web application designed to help you discover fun activities to pass the time and cure your boredom!
 
+![AreYouBored](https://github.com/ThatSINEWAVE/AreYouBored/assets/133239148/19a8c4b9-ba2c-41cb-b7c3-ba2353ea1e21)
+
 </div>
 
 ## Features
